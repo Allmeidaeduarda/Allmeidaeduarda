@@ -12,9 +12,4 @@ My name is Eduarda Almeida and my nickname is "Duda"!
 
 ### tools and technologies
            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-          
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-          
+        Python, VBA, SQL and Power BI
