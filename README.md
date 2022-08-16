@@ -16,4 +16,5 @@ My name is Eduarda Almeida and my nickname is "Duda"!
 ### tools and technologies
 
             <i class="devicon-python-plain colored"></i>
+            
           
