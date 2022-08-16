@@ -14,5 +14,5 @@ My name is Eduarda Almeida and my nickname is "Duda"!
            
         Python, VBA, SQL and Power BI
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+             <img src=" https://www.seekpng.com/png/detail/70-701560_open-python-logo-png.png">
           
