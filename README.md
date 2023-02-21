@@ -4,9 +4,9 @@ My name is Eduarda Almeida and my nickname is "Duda"!
 
 ### About me
 
-- 🔭 I’m currently working on Adaggio
+- 🔭 I currently working at Adagio as a data analyst
 - 🌱 I’m currently learning Python, Power Bi and SQL  
-- 👯 I’m looking to collaborate on data analytics
+- 👯 I am a geologist and I am currently specializing in data science
 - 📫 How to reach me: eduardaallmeida@hotmail.com
 
 
