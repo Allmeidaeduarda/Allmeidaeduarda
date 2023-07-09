@@ -17,4 +17,3 @@ I am currently pursuing a master's degree at UFF and have expertise in cleaning 
 <a href="https://www.linkedin.com/in/eduarda-carvalho-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
            
-          
