@@ -11,14 +11,16 @@ I am currently pursuing a master's degree at UFF and have expertise in cleaning 
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
+![Power BI](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&logoColor=orange&labelColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=excel&logoColor=217346&labelColor=0D1117)&nbsp;
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Social media:
-<div align="center"> 
+<div align="left"> 
 <a href = "mailto:cmp.1a.eca271096@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduarda-carvalho-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
