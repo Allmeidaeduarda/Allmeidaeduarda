@@ -4,16 +4,21 @@ My name is Eduarda Almeida and my nickname is "Duda"!
 
 I am currently pursuing a master's degree at UFF and have expertise in cleaning and consolidating various data sources, with skills in Python, advanced Excel, and SQL for manipulation and analysis of structured data, as well as Power BI for exploratory analysis and Dataview.
 
-<div align="center">
- 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Allmeidaeduarda&show_icons=true&theme=dark-gatsby&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allmeidaeduarda&layout=compact&langs_count=16&theme=dark-gatsby"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allmeidaeduarda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allmeidaeduarda&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<br>
 
+### Main skills:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Social media:
 <div align="center"> 
 <a href = "mailto:cmp.1a.eca271096@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduarda-carvalho-de-almeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-           
