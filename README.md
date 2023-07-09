@@ -2,7 +2,9 @@
 
 My name is Eduarda Almeida and my nickname is "Duda"!
 
-I am currently pursuing a master's degree at UFF and have expertise in cleaning and consolidating various data sources, with skills in Python, advanced Excel, and SQL for manipulation and analysis of structured data, as well as Power BI for exploratory analysis and Dataview.
+I am a geologist and data analyst with and have expertise in cleaning and consolidating various data sources, with skills in Python, advanced Excel, and SQL for manipulation and analysis of structured data, as well as Power BI for exploratory analysis and Dataview.
+
+I am passionate about geospatial analysis techniques to gain insights and solve problems in the field of geosciences. With my diverse set of skills, I intend to contribute to projects involving analysis and visualization of geospatial data.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Allmeidaeduarda&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -13,11 +15,12 @@ I am currently pursuing a master's degree at UFF and have expertise in cleaning 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&logoColor=orange&labelColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=excel&logoColor=217346&labelColor=0D1117)&nbsp;
+![Geospatial Analysis](https://img.shields.io/badge/-Geospatial%20Analysis-0D1117?style=for-the-badge&logo=geospatial-analysis&labelColor=0D1117)&nbsp;
+
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=excel&logoColor=217346&labelColor=0D1117)&nbsp;
 
 ### Social media:
 <div align="left"> 
